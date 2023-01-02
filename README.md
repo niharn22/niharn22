@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niharn22
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me ...
 
 <!---
