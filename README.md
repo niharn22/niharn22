@@ -1,4 +1,4 @@
-## Hey 👋, I am Nihar Nandoskar
+## Hey 👋, I am Nihar  
   
 
 <a href="https://github.com/niharn22" target="_blank">
@@ -33,14 +33,15 @@ I am a motivated and highly driven Information Technology student with a knack f
 - 🔭 I’m currently working on JobDhundo  
   
 
-- 🌱 I’m currently learning Docker and Django  
+- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently learning Docker and Django  
 
 
 </td><td valign="top" width="50%">
 
+![](https://assets.leetcode.com/users/niharn22/avatar_1719770184.png)  
 
 
 </td></tr></table>  
@@ -108,10 +109,6 @@ I am a motivated and highly driven Information Technology student with a knack f
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=niharn22&&style=flat-square)  
-  
-
-<br/>  
-
   
 
 <br/>  
