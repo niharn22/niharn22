@@ -41,8 +41,6 @@ I am a motivated and highly driven Information Technology student with a knack f
 
 </td><td valign="top" width="50%">
 
-<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-116478,resizemode-75,msid-108198448/news/sports/sunrisers-hyderabad-appoint-pat-cummins-as-captain-ahead-of-ipl-2024.jpg" align="center" style="width: 100%" />
-
 
 </td></tr></table>  
 
